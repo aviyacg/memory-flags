@@ -1,0 +1,40 @@
+
+.scoreboard{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 12px;
+
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.cards{
+  display: grid;
+  grid-template-columns: repeat(4, 10rem);
+  gap: 8px;
+}
+
+.Card{
+  font-size: 1.2rem;
+  padding: 8px;
+  background-color: hsla(0, 0%, 70%, 30%);
+  border-radius: 12px;
+  box-shadow: 1px 1px 1px 0px hsla(0, 0%, 50%, 30%);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 4px;
+}
+
+.Card:hover{
+  transition: 200ms;
+  transform: scale(1.02);
+  background-color: hsla(0, 0%, 50%, 40%);
+}
+
+img{
+  width: 8rem;
+}
