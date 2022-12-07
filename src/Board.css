@@ -1,4 +1,9 @@
 
+.Board{
+  width: 90vw;
+  max-width: 700px;
+}
+
 .scoreboard{
   display: flex;
   justify-content: space-around;
@@ -11,7 +16,7 @@
 
 .cards{
   display: grid;
-  grid-template-columns: repeat(4, 10rem);
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 8px;
 }
 
