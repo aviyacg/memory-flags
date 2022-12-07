@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/memory-flags/static/css/main.fc1a3747.css",
+    "main.js": "/memory-flags/static/js/main.d5909de3.js",
+    "static/media/bhutan-flag-button-square-xs.png": "/memory-flags/static/media/bhutan-flag-button-square-xs.f93e8b8550176c78d371.png",
+    "static/media/afghanistan-flag-button-square-xs.png": "/memory-flags/static/media/afghanistan-flag-button-square-xs.50db3956d43d70407844.png",
+    "static/media/ecuador-flag-button-square-xs.png": "/memory-flags/static/media/ecuador-flag-button-square-xs.76c7d487fbc7e404a447.png",
+    "static/media/albania-flag-button-square-xs.png": "/memory-flags/static/media/albania-flag-button-square-xs.7954d45154b54d842a3e.png",
+    "static/media/brazil-flag-button-square-xs.png": "/memory-flags/static/media/brazil-flag-button-square-xs.31a6b941b87c5ca9170b.png",
+    "static/media/cambodia-flag-button-square-xs.png": "/memory-flags/static/media/cambodia-flag-button-square-xs.ad30f92b230800a1483c.png",
+    "static/media/croatia-flag-button-square-xs.png": "/memory-flags/static/media/croatia-flag-button-square-xs.f6112cfa810b83a2fa65.png",
+    "static/media/australia-flag-button-square-xs.png": "/memory-flags/static/media/australia-flag-button-square-xs.50a76375500f5f724b8b.png",
+    "static/media/cyprus-flag-button-square-xs.png": "/memory-flags/static/media/cyprus-flag-button-square-xs.cb45a975f8fd10eba799.png",
+    "static/media/argentina-flag-button-square-xs.png": "/memory-flags/static/media/argentina-flag-button-square-xs.49e7b64959804e122c86.png",
+    "static/media/cuba-flag-button-square-xs.png": "/memory-flags/static/media/cuba-flag-button-square-xs.01428ac2c95c5e730930.png",
+    "static/media/egypt-flag-button-square-xs.png": "/memory-flags/static/media/egypt-flag-button-square-xs.a5eb40eb6cf1429e6264.png",
+    "static/media/algeria-flag-button-square-xs.png": "/memory-flags/static/media/algeria-flag-button-square-xs.318b6caf8e5ba2589b93.png",
+    "static/media/china-flag-button-square-xs.png": "/memory-flags/static/media/china-flag-button-square-xs.2ddfde88cfcd2e7a6219.png",
+    "static/media/bangladesh-flag-button-square-xs.png": "/memory-flags/static/media/bangladesh-flag-button-square-xs.d6ceef8ec403f15154df.png",
+    "static/media/azerbaijan-flag-button-square-xs.png": "/memory-flags/static/media/azerbaijan-flag-button-square-xs.8ce289e16de84ad033d2.png",
+    "index.html": "/memory-flags/index.html",
+    "main.fc1a3747.css.map": "/memory-flags/static/css/main.fc1a3747.css.map",
+    "main.d5909de3.js.map": "/memory-flags/static/js/main.d5909de3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc1a3747.css",
+    "static/js/main.d5909de3.js"
+  ]
+}
